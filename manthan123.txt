@@ -1,0 +1,9 @@
+append this line as this is the first virtual machine that I have created
+Add this line too.
+This file has been moved to Git Repository.
+Process to get started,
+1) first login into EC2 Instance(VM)
+2) to clone git repo just enter = git clone "web url of that repo"
+ NOTE: after cloning you would be able to see the folder OR repo that is creted in the VM direc
+
+is
